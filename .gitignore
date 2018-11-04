@@ -2,3 +2,4 @@ _Store
 .project
 .idea/*
 out/*
+target/*
