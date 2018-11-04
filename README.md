@@ -1,0 +1,2 @@
+# Scala
+Scala for beginers
